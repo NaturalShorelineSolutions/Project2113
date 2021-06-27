@@ -55,7 +55,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #2A2B24;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -458,6 +458,12 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+}
+
+.lead-2{
+  font-size: 1.25rem;
+  font-weight: 300;
+  color:#fff;
 }
 
 .display-1 {
@@ -7389,7 +7395,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #0d6efd !important;
+  background-color: #696C3F !important;
 }
 
 .bg-secondary {
@@ -7413,12 +7419,18 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #729B9E !important;
 }
 
+.blue-back {
+color:#fff;}
+
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #E3DED1  !important;
 }
+
+.foot-img {display: flex;
+justify-content: center;}
 
 .bg-body {
   background-color: #fff !important;
