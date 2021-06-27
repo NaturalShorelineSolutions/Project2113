@@ -657,6 +657,30 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 
+
+.logo-col {float: left;
+  width: 33.33%;
+padding: 15px;}
+.logo-col2 {float: right;
+  width: 33.33%;
+padding: 15px;}
+
+
+.logo-col3 {float: left;
+  width: 50%;
+padding: 15px;}
+.logo-col4 {float: right;
+  width: 50%;
+padding: 15px;}
+
+.linkedin {color:#fff;
+  font-family: var(--bs-font-sans-serif);}
+
+.team-left{float: left;}
+.team-right{float: right;}
+
+
+
 .col {
   flex: 1 0 0%;
 }
