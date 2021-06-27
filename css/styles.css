@@ -7432,6 +7432,10 @@ color:#fff;}
 .foot-img {display: flex;
 justify-content: center;}
 
+.council-img {display: flex;
+justify-content: left;}
+
+
 .bg-body {
   background-color: #fff !important;
 }
