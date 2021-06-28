@@ -600,6 +600,11 @@ progress {
   color: #6c757d;
 }
 
+.figure-caption-light {
+  font-size: 0.875em;
+  color: #ffffff;
+}
+
 .container,
 .container-fluid,
 .container-xxl,
