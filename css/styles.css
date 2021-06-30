@@ -10898,4 +10898,6 @@ section {
 .mb-3-white{color:#fff;
   padding-top: 20px;}
   
-  
+      /*image formatting*/
+      .banner { width: 100%;
+        height: auto}
